@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/cache",
+    "name": "ac-dc/cache",
     "type": "library",
     "description": "Yii Caching Library",
     "keywords": [
@@ -73,7 +73,7 @@
         "ext-ctype": "*",
         "ext-json": "*",
         "yiisoft/strings": "^3.0@dev",
-        "yiisoft/yii-core": "^3.0@dev",
+        "ac-dc/yii-core": "^3.0@dev",
         "yiisoft/di": "^3.0@dev",
         "psr/simple-cache": "~1.0.0"
     },
